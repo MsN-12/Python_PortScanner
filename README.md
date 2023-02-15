@@ -1,1 +1,1 @@
-Make it executable with chmod +x and run to se the usage help
+Make it executable with chmod +x and run to see the usage help
